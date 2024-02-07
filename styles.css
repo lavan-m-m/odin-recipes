@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-size: 70px;
+    color: red;
+}
+
+a {
+    color: purple;
+}
